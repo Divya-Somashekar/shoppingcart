@@ -1,2 +1,2 @@
 # shoppingcart
-https://o7planning.org/en/10683/create-a-shopping-cart-web-application-with-spring-boot-hibernate#a14203284
+This is a shopping cart web application with Spring Boot, Hibernate, and Thymeleaf.
