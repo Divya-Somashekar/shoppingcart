@@ -73,7 +73,7 @@ public class MainController {
  
    @RequestMapping("/")
    public String home() {
-      return "first";
+      return "index";
    }
  
    // Product List
